@@ -13,7 +13,7 @@ var Diameter = 300;
 var Radius =Diameter/2;
  
 function setup() {
-	createCanvas(windowWidth, windowHeight);
+	createCanvas(2000, 1800);
 	cenX = windowWidth/2; 
 	cenY = windowHeight/2;
 		background(50,148,245)
